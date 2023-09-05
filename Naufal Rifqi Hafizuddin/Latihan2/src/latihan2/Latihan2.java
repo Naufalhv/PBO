@@ -27,6 +27,8 @@ public class Latihan2 {
          
         String rata4=String.valueOf(rata2);
           System.out.println(rata4);
+          
+          
         
     }
     
